@@ -1,28 +1,31 @@
 # This is going to be the title for the golang problems
 {% tabs %}
 
-{% tab title="go" %} Here are the instructions for Windows {% endtab %}
+{% tab title="go" %}
 
 ```go
 func main(){
   fmt.Println("Hello Gitbook!")
 }
 ```
+{% endtab %}
 
-{% tab title="python" %} Here are the instructions for macOS {% endtab %}
+{% tab title="python" %}
 
 ```python
 def main():
   print("Hello Gitbook!")
 ```
-{% tab title="javascript" %} Here are the instructions for Linux {% endtab %}
+{% endtab %}
+
+{% tab title="javascript" %}
 
 ```javascript
 function main(){
   console.log("Hello Gitbook!")
 }
 ```
-
+{% endtab %}
 {% endtabs %}
 
 
